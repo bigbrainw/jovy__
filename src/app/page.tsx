@@ -7,6 +7,7 @@ const canDealWith = [
   { id: 2, text: "Borrow computer", emoji: "💻", special: true },
   { id: 3, text: "Taking care of ex girlfriend when sick", emoji: "🤒", special: true },
   { id: 4, text: "Grab the electric components for ex", emoji: "🔌", special: true },
+  { id: 5, text: "Taking care of ex while having period for a week", emoji: "🩹", special: true },
 ];
 
 const cantDealWith = [
